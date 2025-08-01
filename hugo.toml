@@ -1,0 +1,4 @@
+baseURL = 'https://mangaweb4.github.io/'
+languageCode = 'en-us'
+title = 'MangaWeb 4 Documentation.'
+theme = 'ananke'
